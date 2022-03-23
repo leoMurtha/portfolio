@@ -15,7 +15,7 @@ I developed two approaches to find optimal customers (persuadable customers) to 
 
 **Supervised Learning Approach:** Through the use of machine learning a model able to predict whether a customer will accept a marketing campaign or not was developed. The model was used as a tool to improve the marketing team decision making to contact or not different customers, reducing the total cost contact and increasing the marketing campaign ROI and success rate..
 
-<center><img src="https://user-images.githubusercontent.com/18671285/159726002-832e0139-216e-49bc-8ba5-88278fb2dcd3.png"/></center>
+<center><img src="images/rfm.png"/></center>
 
 ---
 ## Time Series Analysis and Forecasting
@@ -44,7 +44,7 @@ Implementation of ARIMA models (AR, MA...) on simulated time-series.
 Implementation of DLM models on the classic Box & Jenkins airline data, monthly totals of international airline passengers, 1949 to 1960.
 
 
-<center><img src="https://user-images.githubusercontent.com/18671285/159728364-7761856e-1370-4423-a9cd-8906da5b21df.png"/></center>
+<center><img src="images/ts.png"/></center>
 
 
 ---
@@ -55,7 +55,7 @@ Implementation of DLM models on the classic Box & Jenkins airline data, monthly 
 
 **What was done:** Crawlers that retrieved data from 4 brazilian e-commerce websites, basic NLP pipeline (+TF/IDF), non-balanced dataset treatment, and exploration of different classes of models (Naïve Bayes, SVM, MLPs...)
 
-<center><img src="https://user-images.githubusercontent.com/18671285/159731014-91000317-ad7e-41a3-a263-2873ba796d1c.png"/></center>
+<center><img src="images/pcd.png"/></center>
 
 ---
 ### Random Acess Memory Neural Network
@@ -64,7 +64,7 @@ Implementation of DLM models on the classic Box & Jenkins airline data, monthly 
 
 
 RAM Neural Net implemented in C and was trained using genetic algorithms to play Tic-Tac-Toe
-<center><img src="https://user-images.githubusercontent.com/18671285/159733265-335b5685-7b79-4030-ae33-421161d303b8.png"></center>
+<center><img src="images/ram.png"></center>
 <center><img src="images/ex.gif"></center>
 <br>
 
